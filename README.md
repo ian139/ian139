@@ -1,4 +1,4 @@
-## Hey, I'm Ian
+## 🏔️ Hey, I'm Ian
 
 I'm Currently a student at UMass Amherst
 > Studying CS, research in Cryptography
