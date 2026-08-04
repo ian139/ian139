@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey, I'm Ian
+
+I'm Currently a student at UMass Amherst
+> Studying CS, research in Cryptography
 
 <!--
 **ian139/ian139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
